@@ -1,3 +1,0 @@
-[submodule "dynamic-website/client"]
-	path = dynamic-website/client
-	url = https://github.com/unfreaked/client.git
